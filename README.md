@@ -1,2 +1,2 @@
 # fyp
-fyp project
+student performance prediction
